@@ -17,4 +17,4 @@
 </pre>
 
 **Video Link**: <br />
-<pre>[Link to video](https://www.youtube.com/watch?v=zGTZN6bisBM)</pre>
+[Link to video](https://www.youtube.com/watch?v=zGTZN6bisBM)
